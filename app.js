@@ -34,9 +34,9 @@ console.log(KP2 / KP1);
 console.log(KP9 / KP3);
 
 //  Two times, increments one of the variables you declared.
-console.log(KP7++);
-console.log(KP2++);
+console.log(++KP7);
+console.log(++KP2);
 
 // Two times, decrement one of the variables you have declared.
-console.log(KP8--);
-console.log(KP10--);
+console.log(--KP8);
+console.log(--KP10);
